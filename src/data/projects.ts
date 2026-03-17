@@ -8,15 +8,15 @@ export const projects: Project[] = [
     technologies: ['React', 'TypeScript', 'Node.js', 'PostgreSQL', 'REST API'],
     githubUrl: 'https://github.com/pupsenke/college-diary-frontend.git',
     liveUrl: '',
-    image: ''
+    image: '/novgu-icon.png'
   },
   {
     id: 2,
     title: 'Потрфолио-сайт',
     description: 'Современный и адаптивный сайт-портфолио с анимациями, темной темой и оптимизацией производительности.',
     technologies: ['React', 'Vite', 'Framer Motion', 'CSS Modules'],
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/pupsenke/portfolio.git',
     liveUrl: '',
-    image: ''
+    image: '/web-icon.png'
   }
 ];
